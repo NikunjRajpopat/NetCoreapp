@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'nikunj'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1EDFF62E64DC4E9EB36F12889A9E9E26 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1835C38473CF4B199B66D65BE55B3209 }}
           package: .
